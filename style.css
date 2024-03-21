@@ -1,0 +1,67 @@
+.btn-radius{
+    border-radius: 10px;
+}
+.img-radius{
+    border-radius: 200px;
+    border: black;
+}
+.shadow-blue {
+    box-shadow: 0 0 40px rgba(29, 100, 255, 0.8); /* Penyesuaian nilai untuk bayangan lebih besar */
+}
+.mb-kagi{
+    margin-bottom:auto;
+}
+.lebar{
+    height: 25px;
+    color: #585150;
+}
+.lebar:hover{
+    height: 25px;
+    color:#0d6efd;
+}
+.putih{
+    background-color: #fcfcfc;
+}
+ .text-blck{
+    color: #585150;
+    
+ }
+ .icon ul {
+    list-style: none;
+    margin-left: -30px;
+  }
+
+  .icon li {
+    display: inline;
+    margin-right: 10px; 
+  }
+
+  .icon1 p{
+    margin-top: 15px;
+    margin-bottom: -13px;
+  }
+  .text-decoation a{
+    text-decoration: none;
+    color: white;
+  }
+  .text-decoation a:hover{
+    text-decoration: none;
+    color:#0d6efd;
+  }
+  .strikethrough-text {
+    text-decoration: line-through;
+    color: white;
+}
+.full-width-line {
+    border: 1px solid white; /* Jenis garis dan warna putih */
+    margin: 0; /* Menghilangkan margin */
+    width: 100%; /* Lebar 100% dari layar */
+}
+.lebar1{
+    height: 25px;
+    color: white;
+}
+.lebar1:hover{
+    height: 25px;
+    color: #0d6efd;
+}
